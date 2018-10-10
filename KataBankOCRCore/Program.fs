@@ -1,3 +1,3 @@
 ﻿module KataBankOCRCore
 
-let hello = "Hello World"
+let getAccountNumber accountNumberOcr = "Hello World"
